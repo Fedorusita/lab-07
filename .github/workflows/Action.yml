@@ -9,3 +9,4 @@ jobs:
 
       - name: build docker
         run: docker build -t logger .
+
